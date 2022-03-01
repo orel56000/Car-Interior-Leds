@@ -1,6 +1,8 @@
 # Videos and pictures:
 
-- TODO
+![Image 1](https://i.imgur.com/eiqfxVu.jpg)
+[Video 1](https://www.youtube.com/watch?v=NWCkDmAQcpE)
+[Video 2](https://www.youtube.com/watch?v=1BGZK5MtQjw)
 
 # How does it work?:
 
