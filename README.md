@@ -1,3 +1,7 @@
+# Videos and pictures:
+
+- TODO
+
 # How does it work?:
 
 - When the arduino starts, we get the time from the GPS, and if this is night time (changable) the leds will be activated.
