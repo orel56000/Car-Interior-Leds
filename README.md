@@ -3,6 +3,7 @@
  
  How does it work?:
 	When the arduino starts, we get the time from the GPS, and if this is night time (changable) the leds will be activated.
+	
 	Leds' colors are controlled by the speed, which will be represented from 0 KMP/H (Dark Blue) to 100 KMP/H (Red).
 		(Can be changed to MP/H)
 	If this is morning time or the GPS didn't get the time yet, you can press the button and force it to be activated.
