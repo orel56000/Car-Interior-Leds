@@ -14,7 +14,7 @@
 
 
 # Requirements:
-- Adruino
+- Arduino
 - GPS that supports TinyGPSPlus library
 - Addressable leds (Low density is recommended)
 
